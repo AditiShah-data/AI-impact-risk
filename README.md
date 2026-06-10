@@ -4,7 +4,7 @@ This project analyses risk of AI to certain jobs and why its happening?
 
 ## Includes:
 - [Tools used](#tools-used)
-- [Presentaion](#)
+- [Presentaion](#AI-impact-risk/AI-Impact-Analysis.pptx)
 - [About me](#about-me)
 
 ### Tools used
