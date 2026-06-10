@@ -10,7 +10,7 @@ This project analyses risk of AI to certain jobs and why its happening?
 ### Tools used
 
 - [Python](#AI-impact-risk/AI_Risk.ipynb)
-- [Excel](#)
+- [Excel](#AI-impact-risk/AI_Impact_on_Jobs_2030-(3).xlsx)
 - [PowerBI](#)
 
   ### About me
