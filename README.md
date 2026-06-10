@@ -14,4 +14,4 @@ This project analyses risk of AI to certain jobs and why its happening?
 - [PowerBI](AI.pbix)
 
   ### About me
-  I am Aditi Shah an aspiring data analyst.
+  I am Aditi Shah, an aspiring data analyst.
