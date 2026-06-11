@@ -12,6 +12,7 @@ This project analyses risk of AI to certain jobs and why its happening?
 - [Python](AI_Risk.ipynb)
 - [Excel](AI_Impact_on_Jobs.xlsx)
 - [PowerBI](AI.pbix)
+- ChatGPT 
 
   ### About me
   I am Aditi Shah, an aspiring data analyst.
